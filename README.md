@@ -1,1 +1,1 @@
-# task1
+# This repository includes Patika.dev tasks
